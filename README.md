@@ -4,8 +4,8 @@
 
 | 游戏 | 源码 | 原作者在线体验 |
 | --- | --- | --- |
-| 鹈鹕骑自行车 | [pelican-bike/](pelican-bike/) | [打开游戏](https://claude-opus-5-5.riba2534.cn/) |
-| 穿越火线·运输船 | [cf-transport-ship/](cf-transport-ship/) | [打开游戏](https://claude-opus-5-5-cf-transport-ship.pages.dev/) |
+| 鹈鹕骑自行车 | [pelican-bike/](https://github.com/fengwunongyinghuachuanyi/pelican-and-transport-ship/tree/main/pelican-bike) | [打开游戏](https://claude-opus-5-5.riba2534.cn/) |
+| 穿越火线·运输船 | [cf-transport-ship/](https://github.com/fengwunongyinghuachuanyi/pelican-and-transport-ship/tree/main/cf-transport-ship) | [打开游戏](https://claude-opus-5-5-cf-transport-ship.pages.dev/) |
 
 ## 本地运行
 
